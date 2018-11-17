@@ -1,1 +1,2 @@
 
+This is a demo implementation of topic modelling with Word2vec. Diffbot API was used to scrape data from wikipedia and then the data was saved in a CSV file. There are 4 clear categories :  Food, Entertainment, Sports, Technology. The goal was to see if the system was able to come up with relevant tags from these documents which could signify these categories using LDA(Latent Dirichlet Allocation) and Word2vec.
